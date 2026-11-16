@@ -1,0 +1,46 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter ExtraBold,80,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,7,3,2,90,90,440,1
+Style: Hook,Inter ExtraBold,96,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,9,4,5,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:04.72,Hook,,0,0,0,,{\fad(0,120)\fs82\pos(540,400)}STRAIGHT A'S ALL YEAR...
+Dialogue: 1,0:00:02.42,0:00:04.72,Hook,,0,0,0,,{\fad(60,120)\pos(540,600)}THEN THEY {\c&H3434EB&}TANK{\c&HFFFFFF&}\NTHE EXAM?
+Dialogue: 0,0:00:00.05,0:00:00.60,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}DOES YOUR KID
+Dialogue: 0,0:00:00.60,0:00:01.60,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}GET {\c&H00D4FF&}STRAIGHT{\c&HFFFFFF&} {\c&H00D4FF&}A'S{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.60,0:00:02.42,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}ALL YEAR BUT
+Dialogue: 0,0:00:02.42,0:00:03.08,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}THEN THE {\c&H00D4FF&}EXAM{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.08,0:00:04.18,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}HITS AND THEY
+Dialogue: 0,0:00:04.18,0:00:04.77,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}{\c&H00D4FF&}TANK?{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.77,0:00:05.17,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}THEY KNOW IT
+Dialogue: 0,0:00:05.17,0:00:05.97,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}UP TO {\c&H00D4FF&}MARCH{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.97,0:00:06.45,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}BUT SIT THEM
+Dialogue: 0,0:00:06.45,0:00:06.91,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}IN THE {\c&H00D4FF&}EXAM{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.91,0:00:07.47,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}ROOM AND IT
+Dialogue: 0,0:00:07.47,0:00:07.99,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}JUST ALL FALLS
+Dialogue: 0,0:00:07.99,0:00:08.46,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}{\c&H00D4FF&}APART{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.46,0:00:08.96,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}WE HERE AT
+Dialogue: 0,0:00:08.96,0:00:09.76,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}INSTANT TUTOR MAKE
+Dialogue: 0,0:00:09.76,0:00:11.00,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}{\c&H00D4FF&}PERSONALIZED{\c&HFFFFFF&} HOMEWORK AND
+Dialogue: 0,0:00:11.00,0:00:11.51,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}STUDY PLANS
+Dialogue: 0,0:00:11.51,0:00:12.97,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}WE OFFER {\c&H00D4FF&}24-HOUR{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.97,0:00:13.88,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}{\c&H00D4FF&}WHATSAPP{\c&HFFFFFF&} SUPPORT
+Dialogue: 0,0:00:13.88,0:00:14.51,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}KISAH WENT FROM
+Dialogue: 0,0:00:14.51,0:00:15.31,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}A {\c&H00D4FF&}58{\c&HFFFFFF&} TO
+Dialogue: 0,0:00:15.31,0:00:15.82,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}AN {\c&H00D4FF&}88{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.82,0:00:16.70,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}JANAVI WENT FROM
+Dialogue: 0,0:00:16.70,0:00:17.56,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}A {\c&H00D4FF&}70{\c&HFFFFFF&} TO
+Dialogue: 0,0:00:17.56,0:00:18.11,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}A {\c&H00D4FF&}90{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.11,0:00:19.14,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}WE {\c&H00D4FF&}GUARANTEE{\c&HFFFFFF&} A
+Dialogue: 0,0:00:19.14,0:00:20.14,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}FULL LETTER GRADE
+Dialogue: 0,0:00:20.14,0:00:21.28,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}UP OR YOU
+Dialogue: 0,0:00:21.28,0:00:21.80,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}{\c&H00D4FF&}DON'T{\c&HFFFFFF&} {\c&H00D4FF&}PAY{\c&HFFFFFF&} A
+Dialogue: 0,0:00:21.80,0:00:22.46,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}SINGLE {\c&H00D4FF&}DIME{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.46,0:00:23.08,Cap,,0,0,0,,{\fad(40,0)\t(0,80,\fscx108\fscy108)\t(80,160,\fscx100\fscy100)}CLICK THIS {\c&H00D4FF&}LINK{\c&HFFFFFF&}

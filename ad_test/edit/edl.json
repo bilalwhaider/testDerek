@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "sources": {
+    "clip01": "/home/user/testDerek/ad_test/clip01.mov"
+  },
+  "ranges": [
+    {
+      "source": "clip01",
+      "start": 0.0,
+      "end": 4.72,
+      "beat": "HOOK",
+      "output_start": 0.0
+    },
+    {
+      "source": "clip01",
+      "start": 6.79,
+      "end": 10.48,
+      "beat": "PAIN",
+      "output_start": 4.72
+    },
+    {
+      "source": "clip01",
+      "start": 10.75,
+      "end": 13.8,
+      "beat": "SOLUTION",
+      "output_start": 8.41
+    },
+    {
+      "source": "clip01",
+      "start": 19.13,
+      "end": 21.5,
+      "beat": "SPEED",
+      "output_start": 11.46
+    },
+    {
+      "source": "clip01",
+      "start": 28.28,
+      "end": 30.22,
+      "beat": "PROOF",
+      "output_start": 13.83
+    },
+    {
+      "source": "clip01",
+      "start": 30.47,
+      "end": 32.76,
+      "beat": "PROOF",
+      "output_start": 15.77
+    },
+    {
+      "source": "clip01",
+      "start": 43.98,
+      "end": 48.33,
+      "beat": "RISK",
+      "output_start": 18.06
+    },
+    {
+      "source": "clip01",
+      "start": 50.39,
+      "end": 51.5,
+      "beat": "CTA",
+      "output_start": 22.41
+    },
+    {
+      "source": "clip01",
+      "start": 54.76,
+      "end": 57.32,
+      "beat": "SCARCITY",
+      "output_start": 23.52
+    }
+  ],
+  "grade": "eq=contrast=1.07:saturation=1.10:gamma=1.02,colorbalance=rs=0.02:bs=-0.02:rm=0.01",
+  "overlays": [
+    {
+      "name": "pain",
+      "start_in_output": 4.82,
+      "duration": 3.49
+    },
+    {
+      "name": "fix",
+      "start_in_output": 8.51,
+      "duration": 2.85
+    },
+    {
+      "name": "support",
+      "start_in_output": 11.51,
+      "duration": 2.27
+    },
+    {
+      "name": "kisah",
+      "start_in_output": 13.88,
+      "duration": 1.84
+    },
+    {
+      "name": "janavi",
+      "start_in_output": 15.82,
+      "duration": 2.19
+    },
+    {
+      "name": "guarantee",
+      "start_in_output": 18.11,
+      "duration": 4.25
+    },
+    {
+      "name": "cta",
+      "start_in_output": 23.08,
+      "duration": 3.0
+    }
+  ],
+  "subtitles": "edit/master.ass",
+  "total_duration_s": 26.08
+}
