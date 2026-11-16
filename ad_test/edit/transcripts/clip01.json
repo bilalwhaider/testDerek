@@ -1,0 +1,1564 @@
+{
+  "words": [
+    {
+      "type": "word",
+      "text": "Does",
+      "start": 0.0,
+      "end": 0.2,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "your",
+      "start": 0.2,
+      "end": 0.3,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "kid",
+      "start": 0.3,
+      "end": 0.6,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "get",
+      "start": 0.6,
+      "end": 1.0,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "straight",
+      "start": 1.0,
+      "end": 1.28,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "A's",
+      "start": 1.28,
+      "end": 1.6,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "all",
+      "start": 1.6,
+      "end": 1.8,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "year",
+      "start": 1.8,
+      "end": 2.08,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "but",
+      "start": 2.08,
+      "end": 2.42,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "then",
+      "start": 2.42,
+      "end": 2.62,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "the",
+      "start": 2.62,
+      "end": 2.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "exam",
+      "start": 2.76,
+      "end": 3.08,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "hits",
+      "start": 3.08,
+      "end": 3.48,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "and",
+      "start": 3.48,
+      "end": 3.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "they're",
+      "start": 3.78,
+      "end": 3.98,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "great",
+      "start": 3.98,
+      "end": 4.18,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "tanks?",
+      "start": 4.18,
+      "end": 4.62,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "spacing",
+      "text": " ",
+      "start": 4.62,
+      "end": 4.92
+    },
+    {
+      "type": "word",
+      "text": "It's",
+      "start": 4.92,
+      "end": 5.06,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "not",
+      "start": 5.06,
+      "end": 5.28,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "that",
+      "start": 5.28,
+      "end": 5.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "they",
+      "start": 5.44,
+      "end": 5.54,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "don't",
+      "start": 5.54,
+      "end": 5.74,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "know",
+      "start": 5.74,
+      "end": 5.88,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "the",
+      "start": 5.88,
+      "end": 5.96,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "material.",
+      "start": 5.96,
+      "end": 6.38,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "spacing",
+      "text": " ",
+      "start": 6.38,
+      "end": 6.84
+    },
+    {
+      "type": "word",
+      "text": "They",
+      "start": 6.84,
+      "end": 6.98,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "know",
+      "start": 6.98,
+      "end": 7.14,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "it",
+      "start": 7.14,
+      "end": 7.24,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "up",
+      "start": 7.24,
+      "end": 7.36,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "to",
+      "start": 7.36,
+      "end": 7.48,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "March,",
+      "start": 7.48,
+      "end": 7.82,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "spacing",
+      "text": " ",
+      "start": 7.82,
+      "end": 8.04
+    },
+    {
+      "type": "word",
+      "text": "but",
+      "start": 8.04,
+      "end": 8.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "sit",
+      "start": 8.22,
+      "end": 8.36,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "them",
+      "start": 8.36,
+      "end": 8.52,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "in",
+      "start": 8.52,
+      "end": 8.62,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "the",
+      "start": 8.62,
+      "end": 8.7,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "exam",
+      "start": 8.7,
+      "end": 8.98,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "room",
+      "start": 8.98,
+      "end": 9.24,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "and",
+      "start": 9.24,
+      "end": 9.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "it",
+      "start": 9.44,
+      "end": 9.54,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "just",
+      "start": 9.54,
+      "end": 9.66,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "all",
+      "start": 9.66,
+      "end": 9.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "falls",
+      "start": 9.86,
+      "end": 10.06,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "apart.",
+      "start": 10.06,
+      "end": 10.4,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "spacing",
+      "text": " ",
+      "start": 10.4,
+      "end": 10.8
+    },
+    {
+      "type": "word",
+      "text": "We",
+      "start": 10.8,
+      "end": 10.96,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "here",
+      "start": 10.96,
+      "end": 11.18,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "at",
+      "start": 11.18,
+      "end": 11.3,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "Instant",
+      "start": 11.3,
+      "end": 11.56,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "Tudor",
+      "start": 11.56,
+      "end": 11.92,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "make",
+      "start": 11.92,
+      "end": 12.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "personalized",
+      "start": 12.1,
+      "end": 12.54,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "homework",
+      "start": 12.54,
+      "end": 12.98,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "and",
+      "start": 12.98,
+      "end": 13.34,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "study",
+      "start": 13.34,
+      "end": 13.58,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "plans",
+      "start": 13.58,
+      "end": 13.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "for",
+      "start": 13.78,
+      "end": 13.98,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "all",
+      "start": 13.98,
+      "end": 14.38,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "of",
+      "start": 14.38,
+      "end": 14.52,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "your",
+      "start": 14.52,
+      "end": 14.6,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "child's",
+      "start": 14.6,
+      "end": 15.0,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "exams",
+      "start": 15.0,
+      "end": 15.36,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "made",
+      "start": 15.36,
+      "end": 15.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "specifically",
+      "start": 15.78,
+      "end": 16.18,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "for",
+      "start": 16.18,
+      "end": 16.66,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "them.",
+      "start": 16.66,
+      "end": 16.94,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "spacing",
+      "text": " ",
+      "start": 16.94,
+      "end": 17.2
+    },
+    {
+      "type": "word",
+      "text": "On",
+      "start": 17.2,
+      "end": 17.32,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "top",
+      "start": 17.32,
+      "end": 17.54,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "of",
+      "start": 17.54,
+      "end": 17.68,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "that,",
+      "start": 17.68,
+      "end": 17.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "spacing",
+      "text": " ",
+      "start": 17.78,
+      "end": 17.92
+    },
+    {
+      "type": "word",
+      "text": "just",
+      "start": 17.92,
+      "end": 18.02,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "for",
+      "start": 18.02,
+      "end": 18.24,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "exam",
+      "start": 18.24,
+      "end": 18.56,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "season,",
+      "start": 18.56,
+      "end": 18.9,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "spacing",
+      "text": " ",
+      "start": 18.9,
+      "end": 19.18
+    },
+    {
+      "type": "word",
+      "text": "we",
+      "start": 19.18,
+      "end": 19.38,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "offer",
+      "start": 19.38,
+      "end": 19.74,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "24",
+      "start": 19.74,
+      "end": 20.24,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "-hour",
+      "start": 20.24,
+      "end": 20.64,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "WhatsApp",
+      "start": 20.64,
+      "end": 20.98,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "support",
+      "start": 20.98,
+      "end": 21.46,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "for",
+      "start": 21.46,
+      "end": 21.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "all",
+      "start": 21.86,
+      "end": 22.12,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "students",
+      "start": 22.12,
+      "end": 22.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "who",
+      "start": 22.44,
+      "end": 22.64,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "sign",
+      "start": 22.64,
+      "end": 22.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "up",
+      "start": 22.86,
+      "end": 23.02,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "now.",
+      "start": 23.02,
+      "end": 23.28,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "spacing",
+      "text": " ",
+      "start": 23.28,
+      "end": 23.66
+    },
+    {
+      "type": "word",
+      "text": "We",
+      "start": 23.66,
+      "end": 23.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "help",
+      "start": 23.76,
+      "end": 23.88,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "students",
+      "start": 23.88,
+      "end": 24.18,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "in",
+      "start": 24.18,
+      "end": 24.4,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "Italy",
+      "start": 24.4,
+      "end": 24.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "grow",
+      "start": 24.78,
+      "end": 25.12,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "from",
+      "start": 25.12,
+      "end": 25.3,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "a",
+      "start": 25.3,
+      "end": 25.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "62",
+      "start": 25.44,
+      "end": 25.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "to",
+      "start": 25.76,
+      "end": 26.26,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "a",
+      "start": 26.26,
+      "end": 26.42,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "90",
+      "start": 26.42,
+      "end": 26.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "in",
+      "start": 26.76,
+      "end": 27.02,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "grade",
+      "start": 27.02,
+      "end": 27.16,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "11",
+      "start": 27.16,
+      "end": 27.4,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "functions.",
+      "start": 27.4,
+      "end": 27.82,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "Kissel",
+      "start": 27.82,
+      "end": 28.6,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "went",
+      "start": 28.6,
+      "end": 28.84,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "from",
+      "start": 28.84,
+      "end": 28.96,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "a",
+      "start": 28.96,
+      "end": 29.08,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "58",
+      "start": 29.08,
+      "end": 29.46,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "to",
+      "start": 29.46,
+      "end": 29.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "an",
+      "start": 29.76,
+      "end": 29.92,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "88.",
+      "start": 29.92,
+      "end": 30.14,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "spacing",
+      "text": " ",
+      "start": 30.14,
+      "end": 30.52
+    },
+    {
+      "type": "word",
+      "text": "Johnnevy",
+      "start": 30.52,
+      "end": 30.88,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "went",
+      "start": 30.88,
+      "end": 31.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "from",
+      "start": 31.22,
+      "end": 31.4,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "a",
+      "start": 31.4,
+      "end": 31.6,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "70",
+      "start": 31.6,
+      "end": 31.92,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "to",
+      "start": 31.92,
+      "end": 32.26,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "a",
+      "start": 32.26,
+      "end": 32.4,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "90.",
+      "start": 32.4,
+      "end": 32.68,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "spacing",
+      "text": " ",
+      "start": 32.68,
+      "end": 33.16
+    },
+    {
+      "type": "word",
+      "text": "Giving",
+      "start": 33.16,
+      "end": 33.34,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "their",
+      "start": 33.34,
+      "end": 33.58,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "parents",
+      "start": 33.58,
+      "end": 33.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "all",
+      "start": 33.86,
+      "end": 34.16,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "the",
+      "start": 34.16,
+      "end": 34.28,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "relief",
+      "start": 34.28,
+      "end": 34.56,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "of",
+      "start": 34.56,
+      "end": 34.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "finally",
+      "start": 34.78,
+      "end": 35.16,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "seeing",
+      "start": 35.16,
+      "end": 35.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "their",
+      "start": 35.44,
+      "end": 35.62,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "child",
+      "start": 35.62,
+      "end": 36.02,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "walking",
+      "start": 36.02,
+      "end": 36.58,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "to",
+      "start": 36.58,
+      "end": 36.74,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "that",
+      "start": 36.74,
+      "end": 36.88,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "exam",
+      "start": 36.88,
+      "end": 37.2,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "relieved",
+      "start": 37.2,
+      "end": 37.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "and",
+      "start": 37.76,
+      "end": 38.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "confident.",
+      "start": 38.1,
+      "end": 38.48,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "spacing",
+      "text": " ",
+      "start": 38.48,
+      "end": 38.78
+    },
+    {
+      "type": "word",
+      "text": "We've",
+      "start": 38.78,
+      "end": 38.96,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "done",
+      "start": 38.96,
+      "end": 39.06,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "this",
+      "start": 39.06,
+      "end": 39.2,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "for",
+      "start": 39.2,
+      "end": 39.34,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "hundreds",
+      "start": 39.34,
+      "end": 39.64,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "of",
+      "start": 39.64,
+      "end": 39.84,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "Canadian",
+      "start": 39.84,
+      "end": 40.08,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "students",
+      "start": 40.08,
+      "end": 40.46,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "and",
+      "start": 40.46,
+      "end": 40.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "families",
+      "start": 40.78,
+      "end": 41.14,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "and",
+      "start": 41.14,
+      "end": 41.4,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "your",
+      "start": 41.4,
+      "end": 41.56,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "child",
+      "start": 41.56,
+      "end": 41.82,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "could",
+      "start": 41.82,
+      "end": 41.96,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "be",
+      "start": 41.96,
+      "end": 42.06,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "next.",
+      "start": 42.06,
+      "end": 42.28,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "spacing",
+      "text": " ",
+      "start": 42.28,
+      "end": 42.76
+    },
+    {
+      "type": "word",
+      "text": "We",
+      "start": 42.76,
+      "end": 42.96,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "are",
+      "start": 42.96,
+      "end": 43.08,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "so",
+      "start": 43.08,
+      "end": 43.32,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "confident",
+      "start": 43.32,
+      "end": 43.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "that",
+      "start": 43.76,
+      "end": 44.0,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "we",
+      "start": 44.0,
+      "end": 44.16,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "guarantee",
+      "start": 44.16,
+      "end": 44.54,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "a",
+      "start": 44.54,
+      "end": 45.06,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "full",
+      "start": 45.06,
+      "end": 45.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "letter",
+      "start": 45.44,
+      "end": 45.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "grade",
+      "start": 45.76,
+      "end": 46.06,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "up",
+      "start": 46.06,
+      "end": 46.4,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "or",
+      "start": 46.4,
+      "end": 47.0,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "you",
+      "start": 47.0,
+      "end": 47.2,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "don't",
+      "start": 47.2,
+      "end": 47.36,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "pay",
+      "start": 47.36,
+      "end": 47.56,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "a",
+      "start": 47.56,
+      "end": 47.72,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "single",
+      "start": 47.72,
+      "end": 47.98,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "dime",
+      "start": 47.98,
+      "end": 48.32,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "plus",
+      "start": 48.32,
+      "end": 48.68,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "you",
+      "start": 48.68,
+      "end": 48.8,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "get",
+      "start": 48.8,
+      "end": 48.98,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "two",
+      "start": 48.98,
+      "end": 49.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "free",
+      "start": 49.22,
+      "end": 49.42,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "months",
+      "start": 49.42,
+      "end": 49.64,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "of",
+      "start": 49.64,
+      "end": 49.8,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "tutoring.",
+      "start": 49.8,
+      "end": 50.0,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "spacing",
+      "text": " ",
+      "start": 50.0,
+      "end": 50.44
+    },
+    {
+      "type": "word",
+      "text": "Click",
+      "start": 50.44,
+      "end": 50.7,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "this",
+      "start": 50.7,
+      "end": 50.9,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "link",
+      "start": 50.9,
+      "end": 51.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "below.",
+      "start": 51.1,
+      "end": 51.42,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "spacing",
+      "text": " ",
+      "start": 51.42,
+      "end": 51.7
+    },
+    {
+      "type": "word",
+      "text": "We'll",
+      "start": 51.7,
+      "end": 51.8,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "map",
+      "start": 51.8,
+      "end": 51.98,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "out",
+      "start": 51.98,
+      "end": 52.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "exactly",
+      "start": 52.1,
+      "end": 52.52,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "how",
+      "start": 52.52,
+      "end": 52.74,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "your",
+      "start": 52.74,
+      "end": 53.0,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "kid",
+      "start": 53.0,
+      "end": 53.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "can",
+      "start": 53.22,
+      "end": 53.4,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "score",
+      "start": 53.4,
+      "end": 53.58,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "higher",
+      "start": 53.58,
+      "end": 53.88,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "this",
+      "start": 53.88,
+      "end": 54.14,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "exam",
+      "start": 54.14,
+      "end": 54.48,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "season.",
+      "start": 54.48,
+      "end": 54.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "There",
+      "start": 54.78,
+      "end": 55.14,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "are",
+      "start": 55.14,
+      "end": 55.24,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "only",
+      "start": 55.24,
+      "end": 55.46,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "five",
+      "start": 55.46,
+      "end": 55.82,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "limited",
+      "start": 55.82,
+      "end": 56.14,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "seats",
+      "start": 56.14,
+      "end": 56.5,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "this",
+      "start": 56.5,
+      "end": 56.92,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "month,",
+      "start": 56.92,
+      "end": 57.24,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "spacing",
+      "text": " ",
+      "start": 57.24,
+      "end": 57.4
+    },
+    {
+      "type": "word",
+      "text": "so",
+      "start": 57.4,
+      "end": 57.56,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "sign",
+      "start": 57.56,
+      "end": 57.8,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "up",
+      "start": 57.8,
+      "end": 57.94,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "before",
+      "start": 57.94,
+      "end": 58.14,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "they're",
+      "start": 58.14,
+      "end": 58.36,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "gone.",
+      "start": 58.36,
+      "end": 58.56,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}
